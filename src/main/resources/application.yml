@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/app_chat
+    username: app_chat
+    password: JKrXYa3Qbph7sa5
